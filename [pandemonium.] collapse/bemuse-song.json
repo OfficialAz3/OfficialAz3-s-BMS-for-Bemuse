@@ -1,0 +1,130 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "07a8418249d87924125fc6c0b82fdff4",
+      "info": {
+        "title": "Collapse.",
+        "artist": "Pandemonium.",
+        "genre": "Fallen Life.",
+        "subtitles": [
+          "[SP Beginner.]"
+        ],
+        "subartists": [
+          "mov.: halorime obj.: OfficialAz3"
+        ],
+        "difficulty": 1,
+        "level": 2
+      },
+      "noteCount": 125,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 167.9999999999998,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_0.bms"
+    },
+    {
+      "md5": "fd40f8d5220750b1d3822bd2a50814a2",
+      "info": {
+        "title": "Collapse.",
+        "artist": "Pandemonium.",
+        "genre": "Fallen Life.",
+        "subtitles": [
+          "[SP Hyper.]"
+        ],
+        "subartists": [
+          "mov.: halorime obj.: OfficialAz3"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1176,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 167.9999999999998,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_2.bms"
+    },
+    {
+      "md5": "67ca4af45c9c59f9b0f1d95ead488b58",
+      "info": {
+        "title": "Collapse.",
+        "artist": "Pandemonium.",
+        "genre": "Fallen Life.",
+        "subtitles": [
+          "[SP Normal.]"
+        ],
+        "subartists": [
+          "mov.: halorime obj.:OfficialAz3"
+        ],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 520,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 167.9999999999998,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_1.bms"
+    },
+    {
+      "md5": "ae85fea3c1121c01016713d9fb4f850b",
+      "info": {
+        "title": "Collapse.",
+        "artist": "Pandemonium.",
+        "genre": "Fallen Life.",
+        "subtitles": [
+          "[SP Another.]"
+        ],
+        "subartists": [
+          "mov.: halorime obj.: OfficialAz3"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1811,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 167.9999999999998,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_3.bms"
+    }
+  ],
+  "title": "Collapse.",
+  "artist": "Pandemonium.",
+  "genre": "Fallen Life.",
+  "bpm": 190,
+  "song_url": "https://soundcloud.com/endofsystem/collapse",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=305&event=149",
+  "youtube_url": "https://www.youtube.com/watch?v=1FEsezZZyIw",
+  "bmssearch_id": "2kWYEStym2nxQq",
+  "artist_url": "N/A",
+  "readme": "README.md",
+  "back_image_url": "bemuse-data/back_image.jpg",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "replaygain": "-12.16 dB",
+  "preview_offset": 67,
+  "preview_url": "bemuse-data/preview.mp3",
+  "video_offset": 1.25
+}
