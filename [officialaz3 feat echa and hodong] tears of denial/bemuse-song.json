@@ -1,0 +1,172 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "1c517df5b0c4b96beabe4dd2260342c4",
+      "info": {
+        "title": "Tears of Denial",
+        "artist": "OfficialAz3 feat. Echa & Hodong (VOX Factory)",
+        "genre": "Pinoy tRap",
+        "subtitles": [
+          "[SP Beginner]"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 1
+      },
+      "noteCount": 125,
+      "bpm": {
+        "init": 155,
+        "min": 155,
+        "median": 155,
+        "max": 155
+      },
+      "duration": 145.74193548387095,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_0.bms"
+    },
+    {
+      "md5": "172faf2ece9f242fe87bb1af5b5b6308",
+      "info": {
+        "title": "Tears of Denial",
+        "artist": "OfficialAz3 feat. Echa & Hodong (VOX Factory)",
+        "genre": "Pinoy tRap",
+        "subtitles": [
+          "[SP Hyper]"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 7
+      },
+      "noteCount": 795,
+      "bpm": {
+        "init": 155,
+        "min": 155,
+        "median": 155,
+        "max": 155
+      },
+      "duration": 164.1290322580645,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_2.bms"
+    },
+    {
+      "md5": "c10ed38e6e1a493f967894aa606b96ad",
+      "info": {
+        "title": "Tears of Denial",
+        "artist": "OfficialAz3 feat. Echa & Hodong (VOX Factory)",
+        "genre": "Pinoy tRap",
+        "subtitles": [
+          "[SP Normal]"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 415,
+      "bpm": {
+        "init": 155,
+        "min": 155,
+        "median": 155,
+        "max": 155
+      },
+      "duration": 164.1290322580645,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_1.bms"
+    },
+    {
+      "md5": "c2d1b57b86cfae107080e7de78258992",
+      "info": {
+        "title": "Tears of Denial",
+        "artist": "OfficialAz3 feat. Echa & Hodong (VOX Factory)",
+        "genre": "Pinoy tRap",
+        "subtitles": [
+          "[SP Another]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 1230,
+      "bpm": {
+        "init": 155,
+        "min": 155,
+        "median": 155,
+        "max": 155
+      },
+      "duration": 164.1290322580645,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_3.bms"
+    },
+    {
+      "md5": "46957c223915b233bd72023f04a7449d",
+      "info": {
+        "title": "Tears of Denial",
+        "artist": "OfficialAz3 feat. Echa & Hodong (VOX Factory)",
+        "genre": "Pinoy tRap",
+        "subtitles": [
+          "[5K Hard]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 5
+      },
+      "noteCount": 581,
+      "bpm": {
+        "init": 155,
+        "min": 155,
+        "median": 155,
+        "max": 155
+      },
+      "duration": 164.1290322580645,
+      "scratch": true,
+      "keys": "5K",
+      "file": "_5k.bms"
+    },
+    {
+      "md5": "f6a66f8d3f552035900d46d33765c3fd",
+      "info": {
+        "title": "Tears of Denial",
+        "artist": "OfficialAz3 feat. Echa & Hodong (VOX Factory)",
+        "genre": "Pinoy tRap",
+        "subtitles": [
+          "[DP Another]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 627,
+      "bpm": {
+        "init": 155,
+        "min": 155,
+        "median": 155,
+        "max": 155
+      },
+      "duration": 164.1290322580645,
+      "scratch": true,
+      "keys": "14K",
+      "file": "_dp.bms"
+    }
+  ],
+  "title": "Tears of Denial",
+  "artist": "OfficialAz3 feat. Echa & Hodong (VOX Factory)",
+  "genre": "Pinoy tRap",
+  "bpm": 155,
+  "song_url": "https://soundcloud.com/official-az3/tears-of-denial",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=149",
+  "youtube_url": "https://www.youtube.com/watch?v=n1yU7MSHiyw",
+  "bmssearch_id": "E3VYsOCNBrab4m",
+  "artist_url": "https://youtube.com/@OfficialAz3",
+  "readme": "README.md",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "replaygain": "-11.78 dB",
+  "preview_offset": 83,
+  "preview_url": "bemuse-data/preview.mp3",
+  "video_offset": 1.4
+}
