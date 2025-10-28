@@ -1,0 +1,172 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "ce823276887ab44af95dd2999f2f0011",
+      "info": {
+        "title": "seven states of dreamscapes",
+        "artist": "OfficialAz3",
+        "genre": "polysystemic weirdcore lofi (12 & 7^2 edo)",
+        "subtitles": [
+          "[sp beginner]"
+        ],
+        "subartists": [],
+        "difficulty": 1,
+        "level": 1
+      },
+      "noteCount": 119,
+      "bpm": {
+        "init": 110,
+        "min": 110,
+        "median": 110,
+        "max": 110
+      },
+      "duration": 150.63311688311688,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_0.bms"
+    },
+    {
+      "md5": "2ad5ecf6402cf8546a2a1c63943e9787",
+      "info": {
+        "title": "seven states of dreamscapes",
+        "artist": "OfficialAz3",
+        "genre": "polysystemic weirdcore lofi (12 & 7^2 edo)",
+        "subtitles": [
+          "[sp normal]"
+        ],
+        "subartists": [],
+        "difficulty": 2,
+        "level": 4
+      },
+      "noteCount": 275,
+      "bpm": {
+        "init": 110,
+        "min": 110,
+        "median": 110,
+        "max": 110
+      },
+      "duration": 150.63311688311688,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_1.bms"
+    },
+    {
+      "md5": "ab135cabde236252d417b996d1e68ba1",
+      "info": {
+        "title": "seven states of dreamscapes",
+        "artist": "OfficialAz3",
+        "genre": "polysystemic weirdcore lofi (12 & 7^2 edo)",
+        "subtitles": [
+          "[sp hyper]"
+        ],
+        "subartists": [],
+        "difficulty": 3,
+        "level": 7
+      },
+      "noteCount": 556,
+      "bpm": {
+        "init": 110,
+        "min": 110,
+        "median": 110,
+        "max": 110
+      },
+      "duration": 150.63311688311688,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_2.bms"
+    },
+    {
+      "md5": "be4d534009c3787410f671ca9597a828",
+      "info": {
+        "title": "seven states of dreamscapes",
+        "artist": "OfficialAz3",
+        "genre": "polysystemic weirdcore lofi (12 & 7^2 edo)",
+        "subtitles": [
+          "[5k hard]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 5
+      },
+      "noteCount": 576,
+      "bpm": {
+        "init": 110,
+        "min": 110,
+        "median": 110,
+        "max": 110
+      },
+      "duration": 150.63311688311688,
+      "scratch": true,
+      "keys": "5K",
+      "file": "_5k.bms"
+    },
+    {
+      "md5": "35c5131ee1779cae7c817ff2fbe00cf7",
+      "info": {
+        "title": "seven states of dreamscapes",
+        "artist": "OfficialAz3",
+        "genre": "polysystemic weirdcore lofi (12 & 7^2 edo)",
+        "subtitles": [
+          "[sp another]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 1051,
+      "bpm": {
+        "init": 110,
+        "min": 110,
+        "median": 110,
+        "max": 110
+      },
+      "duration": 150.63311688311688,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_3.bms"
+    },
+    {
+      "md5": "a13a25ebc67d3dad85f9e3e297efd080",
+      "info": {
+        "title": "seven states of dreamscapes",
+        "artist": "OfficialAz3",
+        "genre": "polysystemic weirdcore lofi (12 & 7^2 edo)",
+        "subtitles": [
+          "[dp another]"
+        ],
+        "subartists": [],
+        "difficulty": 4,
+        "level": 10
+      },
+      "noteCount": 565,
+      "bpm": {
+        "init": 110,
+        "min": 110,
+        "median": 110,
+        "max": 110
+      },
+      "duration": 150.63311688311688,
+      "scratch": true,
+      "keys": "14K",
+      "file": "_dp.bms"
+    }
+  ],
+  "title": "seven states of dreamscapes",
+  "artist": "OfficialAz3",
+  "genre": "polysystemic weirdcore lofi (12 & 7^2 edo)",
+  "bpm": 110,
+  "replaygain": "-11.91 dB",
+  "song_url": "https://soundcloud.com/official-az3/bof21seven-states-of-dreamscapes",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=163&event=149",
+  "youtube_url": "https://www.youtube.com/watch?v=fsji9MMby3w",
+  "bmssearch_id": "CSw6S95dcVKaGc",
+  "artist_url": "https://youtube.com/@OfficialAz3",
+  "readme": "README.md",
+  "preview_offset": 21,
+  "preview_url": "bemuse-data/preview.mp3",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 2
+}
