@@ -1,0 +1,184 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "fef79696013846ca3b6e0fb05552e9fa",
+      "info": {
+        "title": "the world of periwinkle",
+        "artist": "OfficialAz3",
+        "genre": "sampled neurobreaks",
+        "subtitles": [
+          "[sp beginner]"
+        ],
+        "subartists": [
+          "mov: ! �~ i"
+        ],
+        "difficulty": 1,
+        "level": 3
+      },
+      "noteCount": 261,
+      "bpm": {
+        "init": 223,
+        "min": 223,
+        "median": 223,
+        "max": 223
+      },
+      "duration": 170.04484304932734,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_0.bms"
+    },
+    {
+      "md5": "510cada4903658cc44627678f137bec5",
+      "info": {
+        "title": "the world of periwinkle",
+        "artist": "OfficialAz3",
+        "genre": "sampled neurobreaks",
+        "subtitles": [
+          "[sp normal]"
+        ],
+        "subartists": [
+          "mov: ! �~ i"
+        ],
+        "difficulty": 2,
+        "level": 7
+      },
+      "noteCount": 688,
+      "bpm": {
+        "init": 223,
+        "min": 223,
+        "median": 223,
+        "max": 223
+      },
+      "duration": 170.04484304932734,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_1.bms"
+    },
+    {
+      "md5": "a13ef08a4414d5a18bef0adac290a4c7",
+      "info": {
+        "title": "the world of periwinkle",
+        "artist": "OfficialAz3",
+        "genre": "sampled neurobreaks",
+        "subtitles": [
+          "[sp another]"
+        ],
+        "subartists": [
+          "mov: ! �~ i"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 2109,
+      "bpm": {
+        "init": 223,
+        "min": 111.5,
+        "median": 223,
+        "max": 223
+      },
+      "duration": 170.04484304932737,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_3.bms"
+    },
+    {
+      "md5": "ec5f0c899a75c40d60a9fbf40ab42646",
+      "info": {
+        "title": "the world of periwinkle",
+        "artist": "OfficialAz3",
+        "genre": "sampled neurobreaks",
+        "subtitles": [
+          "[5k very hard]"
+        ],
+        "subartists": [
+          "mov: ! �~ i"
+        ],
+        "difficulty": 4,
+        "level": 7
+      },
+      "noteCount": 959,
+      "bpm": {
+        "init": 223,
+        "min": 111.5,
+        "median": 223,
+        "max": 223
+      },
+      "duration": 170.04484304932737,
+      "scratch": true,
+      "keys": "5K",
+      "file": "_5k.bms"
+    },
+    {
+      "md5": "52d0e3ec158dfb3af3f2d57adc1b7121",
+      "info": {
+        "title": "the world of periwinkle",
+        "artist": "OfficialAz3",
+        "genre": "sampled neurobreaks",
+        "subtitles": [
+          "[sp hyper]"
+        ],
+        "subartists": [
+          "mov: ! �~ i"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1313,
+      "bpm": {
+        "init": 223,
+        "min": 111.5,
+        "median": 223,
+        "max": 223
+      },
+      "duration": 170.04484304932737,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_2.bms"
+    },
+    {
+      "md5": "0026c6ae3586b84046225a6882643445",
+      "info": {
+        "title": "the world of periwinkle",
+        "artist": "OfficialAz3",
+        "genre": "sampled neurobreaks",
+        "subtitles": [
+          "[DP #CCCCFF]"
+        ],
+        "subartists": [
+          "Obj: Z6W2A / mov: ! �~ i"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 1026,
+      "bpm": {
+        "init": 223,
+        "min": 111.5,
+        "median": 223,
+        "max": 223
+      },
+      "duration": 170.04557291774472,
+      "scratch": true,
+      "keys": "14K",
+      "file": "_wop_dpl.bms"
+    }
+  ],
+  "title": "the world of periwinkle",
+  "artist": "OfficialAz3",
+  "genre": "sampled neurobreaks",
+  "bpm": 223,
+  "replaygain": "-9.66 dB",
+  "preview_offset": 30,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/official-az3/the-world-of-periwinkle",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=149",
+  "youtube_url": "https://www.youtube.com/watch?v=wf0cQMXYXeU",
+  "artist_url": "https://youtube.com/@OfficialAz3",
+  "readme": "README.md",
+  "bmssearch_id": "XoEQdf8tEBjeUM",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 1
+}
