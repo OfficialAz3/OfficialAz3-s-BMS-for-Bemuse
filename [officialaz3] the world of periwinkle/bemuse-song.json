@@ -11,7 +11,7 @@
           "[sp beginner]"
         ],
         "subartists": [
-          "mov: ! �~ i"
+          "mov: ! x i"
         ],
         "difficulty": 1,
         "level": 3
@@ -38,7 +38,7 @@
           "[sp normal]"
         ],
         "subartists": [
-          "mov: ! �~ i"
+          "mov: ! x i"
         ],
         "difficulty": 2,
         "level": 7
@@ -65,7 +65,7 @@
           "[sp another]"
         ],
         "subartists": [
-          "mov: ! �~ i"
+          "mov: ! x i"
         ],
         "difficulty": 4,
         "level": 12
@@ -92,7 +92,7 @@
           "[5k very hard]"
         ],
         "subartists": [
-          "mov: ! �~ i"
+          "mov: ! x i"
         ],
         "difficulty": 4,
         "level": 7
@@ -119,7 +119,7 @@
           "[sp hyper]"
         ],
         "subartists": [
-          "mov: ! �~ i"
+          "mov: ! x i"
         ],
         "difficulty": 3,
         "level": 10
@@ -146,7 +146,7 @@
           "[DP #CCCCFF]"
         ],
         "subartists": [
-          "Obj: Z6W2A / mov: ! �~ i"
+          "Obj: Z6W2A / mov: !  ~ i"
         ],
         "difficulty": 5,
         "level": 12
